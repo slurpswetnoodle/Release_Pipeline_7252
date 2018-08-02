@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReleasePipeDemoApp", "ReleasePipeDemoApp\ReleasePipeDemoApp.csproj", "{1BD1FBAE-E723-4E6B-B794-3077F1E4BB1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReleasePipeDemoApp.Tests", "ReleasePipeDemoApp.Tests\ReleasePipeDemoApp.Tests.csproj", "{B4BC3647-B38F-495D-8814-F7E0CC4ACA2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BD1FBAE-E723-4E6B-B794-3077F1E4BB1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD1FBAE-E723-4E6B-B794-3077F1E4BB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD1FBAE-E723-4E6B-B794-3077F1E4BB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD1FBAE-E723-4E6B-B794-3077F1E4BB1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4BC3647-B38F-495D-8814-F7E0CC4ACA2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4BC3647-B38F-495D-8814-F7E0CC4ACA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4BC3647-B38F-495D-8814-F7E0CC4ACA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4BC3647-B38F-495D-8814-F7E0CC4ACA2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7B9FE05-9128-456C-9EC0-18B535E0762D}
+	EndGlobalSection
+EndGlobal
